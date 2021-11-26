@@ -9,7 +9,7 @@ This Project is contributed by:
 
 Language Modelling, Machine Translation, Infor-mation Retrieval, Text Categorization, Text Summarization, etcetera, have been active research areas in Natural LanguageProcessing. Reading Comprehension-based question answering,which usually comes under Machine Reading Comprehensiontasks, has been in the spotlight for quite a long time. In thisproject, we attempted the RC-based Q&A Language Modellingtechnique, tried some state-of-art methods, achieved comparableresults, and even surpassed baseline results for some models.Relevant details about the ReClor dataset, its structure, modelsused are described in subsequent sections. Also, the contributionsof each team member are described in detail at the end.
 
-You can find our report in reclor_report.pdf
+You can find our report in NLP_project.pdf
 
 
 
