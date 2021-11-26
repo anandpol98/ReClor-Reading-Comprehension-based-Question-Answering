@@ -7,7 +7,7 @@ This Project is contributed by:
 4) Sana Baid
 5) Shivangi Gajjar
 
-Language Modelling, Machine Translation, Infor-mation Retrieval, Text Categorization, Text Summarization, etcetera, have been active research areas in Natural LanguageProcessing. Reading Comprehension-based question answering,which usually comes under Machine Reading Comprehensiontasks, has been in the spotlight for quite a long time. In thisproject, we attempted the RC-based Q&A Language Modellingtechnique, tried some state-of-art methods, achieved comparable results, and even surpassed baseline results for some models. Relevant details about the ReClor dataset, its structure, models used are described in report attached in the repository. 
+Language Modelling, Machine Translation, Infor-mation Retrieval, Text Categorization, Text Summarization, et cetera, have been active research areas in Natural Language Processing. Reading Comprehension-based question answering, which usually comes under Machine Reading Comprehensiontasks, has been in the spotlight for quite a long time. In this project, we attempted the RC-based Q&A Language Modelling technique, tried some state-of-art methods, achieved comparable results, and even surpassed baseline results for some models. Relevant details about the ReClor dataset, its structure, models used are described in report attached in the repository. 
 
 Find details about model and other details in model.py and utils.py
 
